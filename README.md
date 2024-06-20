@@ -5,14 +5,10 @@
 
 
 
-
 <p align="center" display="flex">
     <img src="./imagens/cell.jpeg" width="300px">
     <img src="./imagens/pc1.jpeg" width="500px">
 </p>
-
-
-
 
 
 # Technologies
@@ -22,16 +18,12 @@
 <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
-<h2>Check out the hosted project📲 </h2>
-<a href="https://cunctatory-highway.000webhostapp.com/" target="_blank">Access project here✅</a>
-
-
-git clone https://github.com/arthurdavidonisrd/hamburgueria.git
-<br>
-
 
 <h2>Project Purpose</h2>
 <p>Practice and apply web development fundamentals. Create a web system applicable to the real world, 100% responsive and interactive with the user. A food enterprise web system, where you can see all the commnents about the service and the best qualitys they have to offer to the clients.</p>
+
+<h2>Check out the hosted project📲 </h2>
+<a href="https://cunctatory-highway.000webhostapp.com/" target="_blank">Access project here✅</a>
 
 
 
