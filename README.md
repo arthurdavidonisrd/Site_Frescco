@@ -1,4 +1,5 @@
-<h1 align="center">Enterprise page</h1>
+<h1 align="center">Frescco pizzeria🍕
+</h1>
 <p align="center" font="bold">Web application made with the purpose of presenting a pizzeria and customer reviews, with a login and customer registration system, using PHP sessions, where the idea is that customers who have a registration receive benefits..
 </p>
 
