@@ -4,8 +4,7 @@
 </p>
 
 
-<h2>Check out the hosted project📲 </h2>
-<a href="https://cunctatory-highway.000webhostapp.com/" target="_blank">Access project here✅</a>
+
 
 <p align="center" display="flex">
     <img src="./imagens/cell.jpeg" width="300px">
@@ -22,6 +21,9 @@
 <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+<h2>Check out the hosted project📲 </h2>
+<a href="https://cunctatory-highway.000webhostapp.com/" target="_blank">Access project here✅</a>
 
 
 git clone https://github.com/arthurdavidonisrd/hamburgueria.git
