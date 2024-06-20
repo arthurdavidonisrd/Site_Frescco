@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" display="flex">
-    <img src="./imagens/cell.jpeg" width="700px">
+    <img src="./imagens/cell.jpeg" width="300px">
     <img src="./imagens/pc1.jpeg" width="300px">
     <img src="./imagens/pc2.jpeg" width="300px">
 
